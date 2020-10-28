@@ -94,3 +94,29 @@ No syntax :(
  - [x] Write the pree release
  - [ ] update the website
  - [ ] contact the media
+
+
+ # :-) 8-)
+(c) (C)  <br>
+~~Strikethrough~~
+
++ hello
+    - hi
+
+:wink:
+:cry:
+
+19^th^
+
+# Footnotes
+link[^first].
+
+        {some code, part of Definiton2 }
+
+
+*[HTML]: Hyper Text
+*[example] : this is example
+
+::: warning
+this is warning
+:::
