@@ -39,5 +39,58 @@ horizontal line
 ## link
 [my link](https://www.naver.com)
 
+![alt text](ima1.png)
 
 
+### Table
+| Syntax | Description | test |
+| ----------- | ----------| ----------|
+| Header | Title | 01 |
+| Para | Text |  02 | 
+| apple | banana | 03 |
+
+```c
+#include <stdio.h>
+int main(){
+    int num1;
+    printf("Enter : ");
+    scanf("%d", &num1);
+
+    printf("%d", num1);
+
+    return 0;
+}
+```
+
+```javascript
+function func(){
+    var a = 'AAA';
+    return a;
+}
+```
+
+
+```css
+.list > li{
+    position : absolute;
+    top : 40px;
+}
+```
+
+```bash
+$ vim ./~zshrc
+```
+
+```python
+s = "Python syntax highlight"
+print s
+```
+
+```
+No syntax :(
+```
+
+### Task List
+ - [x] Write the pree release
+ - [ ] update the website
+ - [ ] contact the media
